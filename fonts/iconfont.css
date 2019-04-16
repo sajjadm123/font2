@@ -1,0 +1,126 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("iconfont.eot?c83ceeb10a505f617d32036bf0dc96ef?#iefix") format("embedded-opentype"),
+url("iconfont.woff2?c83ceeb10a505f617d32036bf0dc96ef") format("woff2"),
+url("iconfont.woff?c83ceeb10a505f617d32036bf0dc96ef") format("woff"),
+url("iconfont.ttf?c83ceeb10a505f617d32036bf0dc96ef") format("truetype"),
+url("iconfont.svg?c83ceeb10a505f617d32036bf0dc96ef#iconfont") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+	font-family: iconfont !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+    .icon-baniguard-logo-little-small:before {
+    content: "a";
+    }
+    .icon-baniguard-logo-little:before {
+    content: "b";
+    }
+    .icon-baniguard-logo-little_2:before {
+    content: "c";
+    }
+    .icon-baniguard-logo-text :before {
+    content: "d";
+    }
+    .icon-baniguard-logo-text-little:before {
+    content: "e";
+    }
+    .icon-baniguard-logo-text:before {
+    content: "f";
+    }
+    .icon-baniguard-logo:before {
+    content: "g";
+    }
+    .icon-combined-shape-copy:before {
+    content: "h";
+    }
+    .icon-combined-shape:before {
+    content: "i";
+    }
+    .icon-conection-system:before {
+    content: "j";
+    }
+    .icon-dashboard:before {
+    content: "k";
+    }
+    .icon-delete-big:before {
+    content: "l";
+    }
+    .icon-delete:before {
+    content: "m";
+    }
+    .icon-detail-big:before {
+    content: "n";
+    }
+    .icon-detail:before {
+    content: "o";
+    }
+    .icon-device:before {
+    content: "p";
+    }
+    .icon-edit-big:before {
+    content: "q";
+    }
+    .icon-edit:before {
+    content: "r";
+    }
+    .icon-filter:before {
+    content: "s";
+    }
+    .icon-group-2:before {
+    content: "t";
+    }
+    .icon-group-2_2:before {
+    content: "u";
+    }
+    .icon-hamberger-menu:before {
+    content: "v";
+    }
+    .icon-in-put:before {
+    content: "w";
+    }
+    .icon-invalid-name:before {
+    content: "x";
+    }
+    .icon-list:before {
+    content: "y";
+    }
+    .icon-out-put:before {
+    content: "z";
+    }
+    .icon-oval:before {
+    content: "A";
+    }
+    .icon-partition-big:before {
+    content: "B";
+    }
+    .icon-partition:before {
+    content: "C";
+    }
+    .icon-path:before {
+    content: "D";
+    }
+    .icon-rectangle-2:before {
+    content: "E";
+    }
+    .icon-room:before {
+    content: "F";
+    }
+    .icon-scan:before {
+    content: "G";
+    }
+    .icon-system-setting:before {
+    content: "H";
+    }
+    .icon-user-setting:before {
+    content: "I";
+    }
+

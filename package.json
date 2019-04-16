@@ -1,0 +1,21 @@
+{
+  "description": "just import to your project ! ",
+  "keywords": [
+    "font"
+  ],
+  "author": {
+    "name": "sajjad mousavi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.baninab.com/summary/?r=p1-baniguard/p1-baniguard-font-icon.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {},
+  "version": "1.0.0",
+  "name": "installer-fontes",
+  "style": "fonts/iconfont.css",
+  "license": "(MIT)"
+}
